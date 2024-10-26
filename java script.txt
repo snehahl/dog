@@ -1,0 +1,4 @@
+array is a collection of data type elements.value is stored the same data.
+var arrayname=[value1,value2,.....,valueN]
+foor loop syntax-initilization,condition,increment.
+ 
